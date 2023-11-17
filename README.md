@@ -1,6 +1,6 @@
 ### Hello there 👋
-I am Nicolò a softwer developer
-<h3 align="lefth">A passionate junior bekende developer </h3>
+I am Nicolò a junior softwer developer
+<h3 align="lefth">A passionate bekende developer </h3>
 
 
 <!--
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 ## How to reach me
 
-- Connect with mw on [www.linkedin.com/in/nicolò-pulvirenti] 
+- contact [xpulvi42@gmail.com] 
