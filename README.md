@@ -1,5 +1,8 @@
 ### Hello there 👋
 
+<h3 align="center">A passionate junior bekende developer </h3>
+
+
 <!--
 **xpulvi/xpulvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> learning **spring login, OAuth 2.0**
+
+- 💬 Ask me about **java, spring boot**
+- 🌱 I’m currently learning **spring login, OAuth 2.0**
+
 ## 💼 Development stack of my
 
 <p align="left">
