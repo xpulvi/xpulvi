@@ -1,6 +1,6 @@
 ### Hello there 👋
-
-<h3 align="center">A passionate junior bekende developer </h3>
+I am Nicolò a softwer developer
+<h3 align="lefth">A passionate junior bekende developer </h3>
 
 
 <!--
@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> learning **spring login, OAuth 2.0**
+<img src= />
+--> 
 
 - 💬 Ask me about **java, spring boot**
-- 🌱 I’m currently learning **spring login, OAuth 2.0**
+- 🌱 I’m currently learning spring login, OAuth 2.0
 
 ## 💼 Development stack of my
 
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
     <img src= "https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"         height="40"/>
     <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     <img src= "https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-    <img src= />
     <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     <img src= "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     <img src= "https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
