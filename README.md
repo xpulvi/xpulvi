@@ -1,5 +1,5 @@
 ### Hello there 👋
-I am Nicolò a junior softwer developer
+I a junior softwer developer
 <h3 align="lefth">A passionate bekende developer </h3>
 
 
